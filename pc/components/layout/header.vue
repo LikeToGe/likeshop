@@ -64,9 +64,6 @@
               <li>
                 <nuxt-link to="/user/profile">个人中心</nuxt-link>
               </li>
-              <li>
-                <nuxt-link to="/help_center">帮助中心</nuxt-link>
-              </li>
               <li id="tel-phone-block" v-if="publicData.mnp_qr_code || publicData.oa_qr_code">
                 <nuxt-link to="/"
                   >手机端
@@ -90,9 +87,6 @@
                     <div class="lighter mt10">公众号演示</div>
                   </div>
                 </div>
-              </li>
-              <li>
-                <nuxt-link to="/">返回官网</nuxt-link>
               </li>
             </ul>
           </div>

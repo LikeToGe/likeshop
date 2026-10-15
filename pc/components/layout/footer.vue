@@ -4,11 +4,11 @@
       <div class="server-box row-between">
         <div class="row">
           <span class="iconfont icon-ziying" style="font-size: 50px;color: white" />
-          <div class="ml8 xxl name">自营商城</div>
+          <div class="ml8 xxl name">自营服务</div>
         </div>
         <div class="row">
           <span class="iconfont icon-zhengpin" style="font-size: 50px;color: white" />
-          <div class="ml8 xxl name">正品保障</div>
+          <div class="ml8 xxl name">服务质保</div>
         </div>
         <div class="row">
           <span class="iconfont icon-fuwu" style="font-size: 50px;color: white" />
@@ -20,7 +20,7 @@
         </div>
         <div class="row">
           <span class="iconfont icon-shouhou" style="font-size: 50px;color: white" />
-          <div class="ml8 xxl name">极速配送</div>
+          <div class="ml8 xxl name">快速上门</div>
         </div>
       </div>
     </div>

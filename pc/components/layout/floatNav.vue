@@ -17,14 +17,6 @@
         <span class="iconfont icon-icon_order"></span>
         <div class="sm">订单</div>
       </nuxt-link>
-      <nuxt-link class="item column-center lighter" to="/user/collection">
-        <span class="iconfont icon-collection"></span>
-        <div class="sm">收藏</div>
-      </nuxt-link>
-      <nuxt-link class="item column-center lighter" to="/help_center">
-        <span class="iconfont icon-survey"></span>
-        <div class="sm">帮助</div>
-      </nuxt-link>
       <div
         class="item column-center lighter"
         v-if="server.way == 4"

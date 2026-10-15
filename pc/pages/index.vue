@@ -33,7 +33,7 @@
     </div>
     <activity-area
       title="热销榜单"
-      desc="实时更新热销火爆商品"
+      desc="实时更新 热销火爆"
       url="/goods_list/1"
       :list="indexData.host_list"
       :banner="indexData.host_ad"
