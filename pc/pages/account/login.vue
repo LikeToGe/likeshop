@@ -5,9 +5,6 @@
         <div class="login-box">
           <div class="login-header-box">
             <div class="header-tabs row-center">
-              <div class="header-tab xxl" :class="{'active-tab': loginStatus == 0}" @click="changeLoginType(0)">
-                验证码登录
-              </div>
               <div class="header-tab xxl" :class="{'active-tab': loginStatus == 1}" @click="changeLoginType(1)">
                 账号密码登录
               </div>
@@ -120,7 +117,7 @@ export default {
       smsCode: '',
       isRemember: true,
       // 短信登陆或账号登陆 0 ==》 短信 1 ==》账号
-      loginStatus: loginType.SMS,
+      loginStatus: loginType.ACCOUNT,
       canSend: true,
       captchaCode: '',
       captchaImg: '',
