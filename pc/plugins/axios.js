@@ -73,6 +73,7 @@ export default function ({ $axios, redirect, app, store }, inject) {
       store.commit('logout')
       redirect('/account/login')
     }
+    return response
   })
   $axios.onError(error => {
     redirect('/error')
