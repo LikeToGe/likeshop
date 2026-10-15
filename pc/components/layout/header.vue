@@ -142,18 +142,6 @@
             <li class="item">
               <nuxt-link to="/goods_list/3">好物优选</nuxt-link>
             </li>
-             <li class="item">
-              <nuxt-link to="/seckill">限时秒杀</nuxt-link>
-            </li>
-            <li class="item">
-              <nuxt-link to="/get_coupons">领券中心</nuxt-link>
-            </li>
-            <li class="item">
-              <nuxt-link to="/news_list">商城资讯</nuxt-link>
-            </li>
-            <li class="item">
-              <nuxt-link to="/help_center">帮助中心</nuxt-link>
-            </li>
           </ul>
         </div>
       </div>
