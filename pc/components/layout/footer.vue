@@ -3,16 +3,12 @@
     <div class="footer-box row-center">
       <div class="server-box row-between">
         <div class="row">
-          <span class="iconfont icon-ziying" style="font-size: 50px;color: white" />
-          <div class="ml8 xxl name">自营服务</div>
-        </div>
-        <div class="row">
           <span class="iconfont icon-zhengpin" style="font-size: 50px;color: white" />
           <div class="ml8 xxl name">服务质保</div>
         </div>
         <div class="row">
           <span class="iconfont icon-fuwu" style="font-size: 50px;color: white" />
-          <div class="ml8 xxl name">专属服务</div>
+          <div class="ml8 xxl name">专属客服</div>
         </div>
         <div class="row">
           <span class="iconfont icon-peisong" style="font-size: 50px;color: white" />
